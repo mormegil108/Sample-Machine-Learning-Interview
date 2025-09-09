@@ -6,7 +6,7 @@ This repository contains three sample Jupyter notebooks that simulate typical **
    - Text classification with TF–IDF, Logistic Regression, Multinomial Naive Bayes, Decision Tree, and Support Vector Machine.
 
 2. **Article Clustering**  
-   - Unsupervised clustering of documents with TF–IDF, dimensionality reduction, and K-Means. 
+   - Unsupervised clustering of documents with dimensionality reduction and K-Means. 
 
 3. **Regularized Regression**  
    - Regression with Ridge, Lasso, and ElasticNet using cross-validation. 
